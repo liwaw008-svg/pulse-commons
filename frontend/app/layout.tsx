@@ -1,0 +1,1 @@
+import'./globals.css';export const metadata={title:'Pulse Commons',description:'Rhythmic public capacity allocation on GenLayer'};export default function L({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
